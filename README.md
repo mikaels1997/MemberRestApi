@@ -20,7 +20,7 @@ Swagger UI\
 Retrieving all the members. Press: "Try it out" -> "Execute"\
 ![image](https://user-images.githubusercontent.com/44393647/155768682-c50311d4-aa0d-4565-a673-9e5a30373f3d.png)
 
-One object should be retrieved
+Some objects should be retrieved
 ![image](https://user-images.githubusercontent.com/44393647/155769107-3e48d76f-df5a-4f02-81a4-c39ebac69022.png)
 
 By using the ID, the user can **delete**, **update** or **retrieve** the corresponding member.\
