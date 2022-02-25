@@ -9,7 +9,7 @@ namespace MemberRestApi
     /// </summary>
     public class Logger
     {
-        public const string logFilePath = ".//Logs//";
+        public const string logFilePath = ".//DatabaseLogs//";
         public Logger(string fileName)
         {
             string path = logFilePath + fileName;
