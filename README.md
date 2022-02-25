@@ -1,5 +1,6 @@
 # MemberRestApi
-A basic REST API which handles SQLite database containing members of arbitrary context
+A basic REST API which handles SQLite database containing members of arbitrary context.\
+Recommended IDE: Visual Studio
 
 ## Features
 The API works in LocalHost\
