@@ -25,7 +25,7 @@ Some objects should be retrieved
 
 By using the ID, the user can **delete**, **update** or **retrieve** the corresponding member.\
 User is also able to **create** new members with POST.\
-These actions are logged to MemberRestApi/Logs\
+These actions are logged to MemberRestApi/DatabaseLogs\
 If the database schema is changed, the migration can be done by applying the following Package Manager commands:\
 Add-Migration [NameOfMigration]\
 Update-Database
