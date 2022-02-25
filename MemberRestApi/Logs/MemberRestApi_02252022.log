@@ -1,0 +1,33 @@
+05:54:19 Launching the application...
+Microsoft.Hosting.Lifetime: Information: Now listening on: https://localhost:5001
+Microsoft.Hosting.Lifetime: Information: Now listening on: http://localhost:5000
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: D:\Työ\Nortal\MemberRestApi
+05.54.30 GET request for all members has been processed
+05.54.42 Member 37287752-4e14-493b-9624-bf5a80bfa4f5 has been deleted
+05.54.50 GET request for all members has been processed
+05:56:06 Launching the application...
+Microsoft.Hosting.Lifetime: Information: Now listening on: https://localhost:5001
+Microsoft.Hosting.Lifetime: Information: Now listening on: http://localhost:5000
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: D:\Työ\Nortal\MemberRestApi
+06:01:37 Launching the application...
+Microsoft.Hosting.Lifetime: Information: Now listening on: https://localhost:5001
+Microsoft.Hosting.Lifetime: Information: Now listening on: http://localhost:5000
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: D:\Työ\Nortal\MemberRestApi
+06.01.47 GET request for all members has been processed
+06.02.17 New member cddccd7f-aab4-4e64-b4d4-1b5ad79f7184 has been created
+06.02.21 GET request for all members has been processed
+06:22:29 Launching the application...
+Microsoft.Hosting.Lifetime: Information: Now listening on: https://localhost:5001
+Microsoft.Hosting.Lifetime: Information: Now listening on: http://localhost:5000
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: D:\Työ\Nortal\MemberRestApi
+06.22.35 GET request for all members has been processed
+06.23.10 Member cddccd7f-aab4-4e64-b4d4-1b5ad79f7184 has been updated
+06.23.13 GET request for all members has been processed
